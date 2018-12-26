@@ -6,7 +6,8 @@ public class MysqlConfig implements DBConfig {
 
 	@Override
 	public String driverClassName() {
-		return "com.mysql.jdbc.Driver";
+		return "com.mysql.cj.jdbc.Driver";
+//		return "com.mysql.jdbc.Driver";
 	}
 
 	@Override

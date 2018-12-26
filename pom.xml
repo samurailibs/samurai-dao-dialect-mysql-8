@@ -209,14 +209,14 @@
     <dependency>
       <groupId>jp.dodododo</groupId>
       <artifactId>samurai-dao</artifactId>
-      <version>1.2.0-RC5</version>
+      <version>1.2.0-RC8</version>
       <type>jar</type>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>8.0.12</version>
+      <version>8.0.13</version>
       <type>jar</type>
       <scope>provided</scope>
     </dependency>
