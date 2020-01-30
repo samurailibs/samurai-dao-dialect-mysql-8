@@ -8,14 +8,14 @@
   <artifactId>samurai-dao-dialect-mysql-8</artifactId>
   <name>samurai-dao-dialect-mysql-8</name>
   <packaging>jar</packaging>
-  <version>1.2.0-RC1</version>
+  <version>1.2.0</version>
 <!--
   <version>1.2.0</version>
   <version>1.2.0-SNAPSHOT</version>
 -->
   <description>samurai-dao library for MySQL5</description>
   <url>https://github.com/samurailibs/samurai-dao-dialect-mysql-8</url>
-  <inceptionYear>2018-2018</inceptionYear>
+  <inceptionYear>2018-2019</inceptionYear>
 
   <licenses>
     <license>
@@ -209,7 +209,7 @@
     <dependency>
       <groupId>jp.dodododo</groupId>
       <artifactId>samurai-dao</artifactId>
-      <version>1.2.0-RC8</version>
+      <version>1.2.0</version>
       <type>jar</type>
       <scope>provided</scope>
     </dependency>
